@@ -13,7 +13,7 @@ import { Connection } from 'typeorm';
     "port": 3306,
     "username": "root",
     "password": "",
-    "database": "nestjs-melivecoach-crud",
+    "database": "nestjs-melivecode-crud",
     "entities": ["dist/**/*.entity{.ts,.js}"],
     "synchronize": true
     }),
